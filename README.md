@@ -13,3 +13,5 @@ Meu nome é Mariane de Curcio
  
 
 ![](https://media1.tenor.com/m/AWSuK0ZsXTYAAAAC/brow-beauty.gif)
+
+wget https://github.com/alura-cursos/Pipeline-de-dados-combinando-Python-e-orientcao-a-objeto/blob/main/data_raw/dados_empresaA.json
